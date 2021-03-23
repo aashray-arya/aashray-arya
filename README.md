@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashray-arya
+- 👋 Hi, I’m Aashray Arya persuing CSE in SRMIST,SPACED domain lead(SRM Team Robocon)
 - 👀 I’m interested in Robotics,Embedded Systems
 - 🌱 I’m currently learning ROS,Kotlin/App development
 - 💞️ I’m looking to collaborate on Open Source Projects 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aashray Arya persuing CSE in SRMIST,SPACED domain lead(SRM Team Robocon)
 - 👀 I’m interested in IoT, Embedded Systems and Robotics
-- 🌱 I’m currently learning ROS,Machine Learning,App development(Kotlin)
+- 🌱 I’m currently learning IIoT,ROS and Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 arya.aashray@gmail.com
 
